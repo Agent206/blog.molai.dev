@@ -2303,9 +2303,10 @@ hr {
   height: 60%;
 }
 
-.mid {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+.red {
+  color: #ff4473;
+}
+
+.twenty8 {
+  font-size: 28px;
 }
